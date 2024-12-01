@@ -93,3 +93,20 @@ To create new branch
         Script mode vs interactive mode
         Jupyter notebook usage
         Ascii and Unicode characters
+
+[class03 13th Nov 2024 ](zoomrecordinglink)
+
+        Comment Operator
+        keywords and Identifiers
+        Line continuation and statement separator operators
+
+    02.Basics
+        Arithmetic operations
+            +, -, , /, //, %, *
+            divmod() function
+            compound opertions
+
+    Assignments:
+
+        1) try to the sum of digits in a integer number, using divmod()
+        2) If a clock has revolved for 32 times, and is half way, how many days completed
