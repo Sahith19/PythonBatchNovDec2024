@@ -127,3 +127,19 @@ To create new branch
         3) convert from hex to oct , and vice versa
         4) feet to cms conversion
 
+
+[class04 15th Nov 2024 ](zoomrecordinglink)
+
+            Practical Problem solving
+            working with complex numbers
+            abs() function
+            Operator precedence in Arithmetic operations
+
+    Assignments:
+
+        1) savings Bank 
+        2) Bank loan
+            simple interest 
+            compund interest
+        3) convert from hex to oct , and vice versa
+        4) feet to cms conversion
