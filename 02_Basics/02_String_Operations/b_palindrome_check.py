@@ -2,7 +2,7 @@
 """
 Purpose: Demonstration of Palindrome check
 
-    palindrome strings
+    palindrome strings --
         dad
         mom
 
