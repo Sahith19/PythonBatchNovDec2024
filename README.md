@@ -133,3 +133,7 @@ To create new branch
         Usage of single, double and triple quotes
         len() function
         Indexing and Slicing Strings
+
+[class06 22nd Nov 2024 ](zoomrecordinglink)
+
+        string attributes
