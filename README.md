@@ -127,4 +127,9 @@ To create new branch
         3) convert from hex to oct , and vice versa
         4) feet to cms conversion
 
+[class05 20th Nov 2024 ](zoomrecordinglink)
 
+    String operations
+        Usage of single, double and triple quotes
+        len() function
+        Indexing and Slicing Strings
